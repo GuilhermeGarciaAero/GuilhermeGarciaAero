@@ -1,25 +1,36 @@
-# Olá, sou Guilherme Garcia 👋
+# Hi, I'm Guilherme Garcia 👋🚀
 
-🎓 Engenheiro Aeroespacial — UnB (2024)  
-📍 Brasília, Brasil  
-🔧 MATLAB • CAD • CFD • Python  
+🎓 Aerospace Engineer — University of Brasília (UnB), 2024  
+📍 Brasília, Brazil  
+🔧 MATLAB • CAD • CFD  
+🌎 Open to remote & international opportunities  
 
-## Sobre mim
-Engenheiro aeroespacial com experiência em simulações CFD,
-modelagem CAD e desenvolvimento de scripts MATLAB.
-Buscando oportunidades em projetos de engenharia remotos
-e internacionais.
+---
 
-## Habilidades
-- Simulação CFD (OpenFOAM, ANSYS Fluent)
-- Modelagem CAD (SolidWorks, CATIA)
-- MATLAB / Simulink
-- Python (em desenvolvimento)
+## 🛠️ Technical Skills
 
-## Projetos em destaque
-🚀 Em breve...
+| Area | Tools |
+|------|-------|
+| CFD Simulation | ANSYS Fluent, OpenFOAM |
+| CAD Modeling | SolidWorks, CATIA |
+| Programming | MATLAB, Simulink |
+| Currently Learning | Python, Git |
 
-## Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-garcia-guedes-aeroespacial/)
+---
 
-📧 guigguedes@gmail.com
+## 🚀 Projects
+
+> Portfolio in progress — academic and personal projects coming soon.
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Garcia-blue?style=flat&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/guilherme-garcia-guedes-aeroespacial/))
+
+[![Email](https://img.shields.io/badge/Email-contact-red?style=flat&logo=gmail)](mailto:guigguedes@gmail.com)
+
+---
+
+*Aerospace Engineer passionate about fluid dynamics, structural 
+analysis and computational simulations.*
