@@ -1,26 +1,4 @@
-# Olá, sou João Silva 👋
-
-🎓 Engenheiro Aeroespacial — UnB (2024)  
-📍 Brasília, Brasil  
-🔧 MATLAB • CAD • CFD • Python  
-
-## Sobre mim
-Engenheiro aeroespacial com experiência em simulações CFD,
-modelagem CAD e desenvolvimento de scripts MATLAB.
-Buscando oportunidades em projetos de engenharia remotos
-e internacionais.
-
-## Habilidades
-- Simulação CFD (OpenFOAM, ANSYS Fluent)
-- Modelagem CAD (SolidWorks, CATIA)
-- MATLAB / Simulink
-- Python (em desenvolvimento)
-
-## Projetos em destaque
-🚀 Em breve...
-
-## Contato
-# Olá, sou João Silva 👋
+# Olá, sou Guilherme Garcia 👋
 
 🎓 Engenheiro Aeroespacial — UnB (2024)  
 📍 Brasília, Brasil  
