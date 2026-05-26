@@ -1,16 +1,46 @@
-## Hi there 👋
+# Olá, sou João Silva 👋
 
-<!--
-**GuilhermeGarciaAero/GuilhermeGarciaAero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Engenheiro Aeroespacial — UnB (2024)  
+📍 Brasília, Brasil  
+🔧 MATLAB • CAD • CFD • Python  
 
-Here are some ideas to get you started:
+## Sobre mim
+Engenheiro aeroespacial com experiência em simulações CFD,
+modelagem CAD e desenvolvimento de scripts MATLAB.
+Buscando oportunidades em projetos de engenharia remotos
+e internacionais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades
+- Simulação CFD (OpenFOAM, ANSYS Fluent)
+- Modelagem CAD (SolidWorks, CATIA)
+- MATLAB / Simulink
+- Python (em desenvolvimento)
+
+## Projetos em destaque
+🚀 Em breve...
+
+## Contato
+# Olá, sou João Silva 👋
+
+🎓 Engenheiro Aeroespacial — UnB (2024)  
+📍 Brasília, Brasil  
+🔧 MATLAB • CAD • CFD • Python  
+
+## Sobre mim
+Engenheiro aeroespacial com experiência em simulações CFD,
+modelagem CAD e desenvolvimento de scripts MATLAB.
+Buscando oportunidades em projetos de engenharia remotos
+e internacionais.
+
+## Habilidades
+- Simulação CFD (OpenFOAM, ANSYS Fluent)
+- Modelagem CAD (SolidWorks, CATIA)
+- MATLAB / Simulink
+- Python (em desenvolvimento)
+
+## Projetos em destaque
+🚀 Em breve...
+
+## Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/guilherme-garcia-guedes-aeroespacial/)
+📧 guigguedes@gmail.com
